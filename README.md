@@ -1,6 +1,7 @@
 # Used-Car-Price-Prediction
 
 Business Insights
+
 •	Car type, Transmission, Drive and Year are the top drivers of the price.
 •	Especially the type of car is the most important. Convertible>truck>pickup... Bus, minivan, hatchback have negative coefficients, suggesting they are not very welcome in the market.
 •	Condition, title status, number of cylinders, Manufacturer doesn't have much influencing power.

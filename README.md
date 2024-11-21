@@ -9,4 +9,4 @@ Business Insights
 5. Non-standard transmissions add values like dual-clutch. Its coeeficient is very high.
 
 
-Jupyter Notebook Link:https://github.com/JiananWuu/Used-Car-Price-Prediction/blob/main/What_Drives_the_Price_of_a_Car.ipynb
+Jupyter Notebook Link: https://github.com/JiananWuu/Used-Car-Price-Prediction/blob/main/What_Drives_the_Price_of_a_Car.ipynb

@@ -11,6 +11,7 @@ We can see they have very similar feature rankings.
 
 **To be revisited later**
 - Missing values imputation: I just dropped the missing values for now. Considering the percentage of missing values are quite high around 20%-30%, there probably should be a better way to deal with those data.
+- From the visualization of Actual and Prediction for the linear regression model, it seems that there are still a few outliers that deviate the model significantly. Remove the outliers further. 
 - Explore other ways to select features like sequential selection. See if they can generate better models. For now the featares are quite a lot.
 - More data collection on other type of transmisson and fuel. The transmission_other and fuel_other coefficient, however this value is quite obscure.
 
